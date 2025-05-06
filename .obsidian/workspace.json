@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "3a46d6730e68acd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "89c23bbf5f1eacb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cd85f44ec2165e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "020 PLUGINS/000 SAMPLE/テンプレート.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "テンプレート"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf5770cc2c26c4e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "55cdf3314004a0cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc8c1600f90228f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "ce3af6b896750882",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "baabf9d4cd0e1f6e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369.5
+  },
+  "right": {
+    "id": "dcdfccdb3931d2d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f98eed303ef4b960",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92e58ebba1bc556a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "020 PLUGINS/000 SAMPLE/テンプレート.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "テンプレートへのバックリンク"
+            }
+          },
+          {
+            "id": "1caaa031ff97a3bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "020 PLUGINS/000 SAMPLE/テンプレート.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "テンプレートからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "52a0ab2e14e61e2b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "2ac5538e7893ef01",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "020 PLUGINS/000 SAMPLE/テンプレート.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "テンプレートのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false
+    }
+  },
+  "active": "bc8c1600f90228f3",
+  "lastOpenFiles": [
+    "README.md",
+    "020 PLUGINS/obsidian-mdtex-plugin/obsidian-mdtex-plugin.md",
+    "020 PLUGINS/000 SAMPLE/テンプレート.md",
+    "020 PLUGINS/obsidian-mdtex-plugin/obsidian-mdtex-pluginを解説してみた.md",
+    "020 PLUGINS/000 SAMPLE/テンプレートの使い方.md",
+    "020 PLUGINS/000 SAMPLE/STORAGE",
+    "020 PLUGINS/obsidian-mdtex-plugin",
+    "Welcome.md",
+    "020 PLUGINS/000 SAMPLE",
+    "020 PLUGINS",
+    "000 HOME",
+    "010 MOC"
+  ]
+}
