@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "020 PLUGINS/000 SAMPLE/テンプレート.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "テンプレート"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "020 PLUGINS/000 SAMPLE/テンプレート.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "テンプレートへのバックリンク"
+              "title": "READMEへのバックリンク"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "020 PLUGINS/000 SAMPLE/テンプレート.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "テンプレートからのアウトゴーイングリンク"
+              "title": "READMEからのアウトゴーイングリンク"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "020 PLUGINS/000 SAMPLE/テンプレート.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "テンプレートのアウトライン"
+              "title": "READMEのアウトライン"
             }
           }
         ]
@@ -168,11 +168,13 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "bc8c1600f90228f3",
+  "active": "3cd85f44ec2165e2",
   "lastOpenFiles": [
+    "000 HOME/000 HOME.md",
+    "010 MOC/010 MOC.md",
+    "020 PLUGINS/000 SAMPLE/テンプレート.md",
     "README.md",
     "020 PLUGINS/obsidian-mdtex-plugin/obsidian-mdtex-plugin.md",
-    "020 PLUGINS/000 SAMPLE/テンプレート.md",
     "020 PLUGINS/obsidian-mdtex-plugin/obsidian-mdtex-pluginを解説してみた.md",
     "020 PLUGINS/000 SAMPLE/テンプレートの使い方.md",
     "020 PLUGINS/000 SAMPLE/STORAGE",
